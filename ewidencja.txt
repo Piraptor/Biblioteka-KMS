@@ -1,0 +1,1063 @@
+A-001-a	K. Kuratowski	Wstęp do teorii mnogości i topologii
+A-001-b	K. Kuratowski	Wstęp do teorii mnogości i topologii
+A-001-c	K. Kuratowski	Wstęp do teorii mnogości i topologii
+A-001-d	K. Kuratowski	Wstęp do teorii mnogości i topologii
+A-002-a	H. Rasiowa	Wstęp do matematyki współczesnej
+A-002-b	H. Rasiowa	Wstęp do matematyki współczesnej
+A-002-c	H. Rasiowa	Wstęp do matematyki współczesnej
+A-002-d	H. Rasiowa	Wstęp do matematyki współczesnej
+A-002-e	H. Rasiowa	Wstęp do matematyki współczesnej
+A-003-a	W. Marek, J. Onyszkiewicz	Elementy logiki i teorii mnogości w zadaniach
+A-003-b	W. Marek, J. Onyszkiewicz	Elementy logiki i teorii mnogości w zadaniach
+A-003-c	W. Marek, J. Onyszkiewicz	Elementy logiki i teorii mnogości w zadaniach
+A-003-d	W. Marek, J. Onyszkiewicz	Elementy logiki i teorii mnogości w zadaniach
+A-004-a	H. Mortimer	Logika indukcji
+A-004-b	H. Mortimer	Logika indukcji
+A-005-a	J. Musielak	Wstęp do matematyki 
+A-005-b	J. Musielak	Wstęp do matematyki
+A-006-a	A. Grzegorczyk	Zarys logiki matematycznej
+A-006-b	A. Grzegorczyk	Zarys logiki matematycznej
+A-007-a	H.J. Siegfried	Od teorii mnogości do algebry logiki
+A-007-b	H.J. Siegfried	Od teorii mnogości do algebry logiki
+A-008-a	J. Słupecki, L. Borkowski	Elementy logiki matematycznej i teorii mnogości
+A-008-b	J. Słupecki, L. Borkowski	Elementy logiki matematycznej i teorii mnogości
+A-009-a	W. Guzicki, P. Zbierski	Podstawy teorii mnogości
+A-010-a	Z. Adamowicz, P. Zbierski	Logika matematyczna
+A-011-a	J. Krempa, B. Mażbic-Kulma	Elementy logiki teorii mnogości i algebry
+A-012-a	A. Chronowski	Elementy teorii mnogości
+A-013-a	I.A. Lawrow, Ł.L. Maksimowa	Zadania z teorii mnogości, logiki matematycznej i teorii algorytmów
+A-014-a	W.A. Pogorzelski	Klasyczny rachunek zdań. Zarys teorii
+A-015-a	G. Hunter	Metalogika
+A-016-a	Z. Opiał	Zbiory, formy zdaniowe, relacje
+A-017-a	Wacław Sierpniśki	Zarys teorji mnogości
+A-018-a	I. Lakatos	Dowody i refutacje. Logika odkrycia matematycznego
+A-019-a	W..V.O.Quine	Logika matematyczna
+A-020-a	Wacław Sierpniśki	Teorya mnogości
+A-021-a	S. Przybyło, A. Szlachtowski	Zadania z matematyki
+A-022-a	H. Rasiowa	Wstęp do logiki matematycznej i teorii mnogości
+A-023-a	Rudolf Carnap	Abriss der Logistik
+A-024-a	W.A. Pogorzelski	Klasyczny rachunek kwantyfikatorów. Zarys teorii
+A-025-a	Uniwersytet Jagielloński	Reports on Mathematical Logic
+A-026-a	W. Sierpińki	Zarys teorji mnogości
+A-027-a	Alfred Tarski	O logice matematycznej i metodzie dedukcyjnej
+A-028-a	Sophie Piccard	Sur des ensemles parfaits
+A-029-a	S. K. Zaremba	Teorja dowodu
+A-030-a	Alfred Tarski	O logice matematycznej i metodzie dedukcyjnej
+A-031-a	Witold Wilkosz	Podstawy teorji mnogości
+A-032-a	Wacław Sierpniśki	Wstęp do teorji mnogości i topologji
+A-033-a	Witold Wilkosz	Podstawy teorji mnogości
+A-034-a	Wiktor Marek, Janusz Onyszkiewicz	Elementy logiki i teorii mnogości w zadaniach
+A-035-a	Ludwik Couturat	Algebra logki
+A-036-a	George Boole	The laws of thought
+A-037-a	Kazimierz Kuratowski	Kurs Ogólnej Teorji Mnogości
+A-038-a	J. Słupecki, L. Borkowski	Elementy logiki matematycznej i teorii mnogości
+A-039-a	Jerzy Słupecki, Katarzyna Hałkowska, Krystyna Piróg-Rzepecka	Logika i teoria mnogości
+A-040-a	S. K. Zaremba	Teorja dowodu
+A-041-a	Felix Hausdorff	Grundzüge der Mengenlehre
+A-042-a	George Boole	The mathematical analysis of logic
+B-001-a	S. Gołąb	Rachunek tensorowy
+B-001-b	S. Gołąb	Rachunek tensorowy
+B-002-a	H. Guściora, M. Sadowski	Repetyrorium z algebry liniowej
+B-002-b	H. Guściora, M. Sadowski	Repetyrorium z algebry liniowej
+B-003-a	G. Banaszak, W. Gajda	Elementy algebry liniowej cz.2
+B-003-b	G. Banaszak, W. Gajda	Elementy algebry liniowej cz.2
+B-004-a	T. Trajdos	Matematyka cz.3
+B-004-b	T. Trajdos	Matematyka cz.3
+B-005-a	A. Białynicki-Birula	Algebra liniowa z geometrią
+B-005-b	A. Białynicki-Birula	Algebra liniowa z geometrią
+B-005-c	A. Białynicki-Birula	Algebra liniowa z geometrią
+B-005-d	A. Białynicki-Birula	Algebra liniowa z geometrią
+B-006-a	J. Garncarzewicz	Algebra liniowa z elementami geometrii
+B-006-b	J. Garncarzewicz	Algebra liniowa z elementami geometrii
+B-006-c	J. Garncarzewicz	Algebra liniowa z elementami geometrii
+B-006-d	J. Garncarzewicz	Algebra liniowa z elementami geometrii
+B-007-a	M. Gewert, Z. Skoczylas	Elementy analizy wektorowej
+B-007-b	M. Gewert, Z. Skoczylas	Elementy analizy wektorowej
+B-008-a	A. Ehrenfeucht, O. Stande	Zbiór zadań z matematyki elementarnej
+B-008-b	A. Ehrenfeucht, O. Stande	Zbiór zadań z matematyki elementarnej
+B-008-c	A. Ehrenfeucht, O. Stande	Zbiór zadań z matematyki elementarnej
+B-009-a	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 1
+B-009-b	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 1
+B-009-c	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 1
+B-009-d	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 1
+B-009-e	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 1
+B-009-f	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 1
+B-009-g	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 1
+B-009-h	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 1
+B-009-i	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 1
+B-009-j	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 2
+B-009-k	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 2
+B-009-l	T. Jurlewicz, Z. Skoczylas	Algebra liniowa 2
+B-010-a	Stanisław Zaremba	Teorya wyznaczników i równań liniowych
+B-010-b	Stanisław Zaremba	Teorya wyznaczników i równań liniowych
+B-010-c	Stanisław Zaremba	Teorya wyznaczników i równań liniowych
+B-010-d	Stanisław Zaremba	Teorya wyznaczników i równań liniowych
+B-010-e	Stanisław Zaremba	Teorya wyznaczników i równań liniowych
+B-011-a	J. Garncarzewicz	Algebra liniowa i jej zastosowania
+B-011-b	J. Garncarzewicz	Algebra liniowa i jej zastosowania
+B-012-a	A. Mostowski, M. Stark	Elementy algebry wyższej
+B-012-b	A. Mostowski, M. Stark	Elementy algebry wyższej
+B-012-c	A. Mostowski, M. Stark	Elementy algebry wyższej
+B-012-d	A. Mostowski, M. Stark	Elementy algebry wyższej
+B-013-a	A. Mostowski, M. Stark	Algebra liniowa
+B-013-b	A. Mostowski, M. Stark	Algebra liniowa
+B-013-c	A. Mostowski, M. Stark	Algebra liniowa
+B-013-d	A. Mostowski, M. Stark	Algebra liniowa
+B-013-e	A. Mostowski, M. Stark	Algebra liniowa
+B-013-f	A. Mostowski, M. Stark	Algebra liniowa
+B-014-a	A.I. Kostrykin	Wstęp do algebry
+B-014-b	A.I. Kostrykin	Wstęp do algebry
+B-014-c	A.I. Kostrykin	Wstęp do algebry
+B-014-d	A.I. Kostrykin	Wstęp do algebry
+B-015-a	N.W. Jefinow, E.R.Rozendom	Algebra liniowa wraz z geometrią wielowymiarową
+B-015-b	N.W. Jefinow, E.R.Rozendom	Algebra liniowa wraz z geometrią wielowymiarową
+B-016-a	S. Przybyło	Algebra i wielowymiarowa geometria analityczna w zadaniach
+B-016-b	S. Przybyło	Algebra i wielowymiarowa geometria analityczna w zadaniach
+B-016-c	S. Przybyło	Algebra i wielowymiarowa geometria analityczna w zadaniach
+B-016-d	S. Przybyło	Algebra i wielowymiarowa geometria analityczna w zadaniach
+B-016-e	S. Przybyło	Algebra i wielowymiarowa geometria analityczna w zadaniach
+B-016-f	S. Przybyło	Algebra i wielowymiarowa geometria analityczna w zadaniach
+B-016-g	S. Przybyło	Algebra i wielowymiarowa geometria analityczna w zadaniach
+B-017-a	J. Klukowski, I. Nabiałek	Algebra dla studentów
+B-018-a	J. Klukowski	Algebra w zadaniach
+B-019-a	M. Grzesiak	Liczby zespolone i algebra liniowa
+B-020-a	A.I. Kostrykin	Zbiór zadań z algebry
+B-021-a	A. Kiełbasiński, H. Schwetlick	Numeryczna algebra liniowa
+B-022-a	K. Szymiczek	Formy kwadratowe nad ciałami
+B-023-a	S. Przybyło, A. SZlachtowski	Algebra i geometria afiniczna nad ciałami
+B-024-a	I.M. Gelfand	Wykłady z algebry liniowej
+B-025-a	D. Witczyńska, K. Witczyński	Wybrane zagadnienia z algebry liniowej i geometrii
+B-026-a	M.-A. Baraniecki	Teorya wyznaczników
+B-027-a	B. Bielecki	Algebra Elementarna
+B-028-a	L. Jeśmianowicz, J. Łoś	Zbiór zadań z algebry
+B-029-a	W. Dubnicki, L. Filus, H. Sosnowska	Algebra liniowa w zadaniach
+B-030-a	R. Leitner	Zarys matematyki wyższej cz.2
+B-031-a	K. Sieklucki	Geometria i topologia
+B-032-a	M. Moszyńska, J. Święcicka	Geometria z algebrą liniową
+B-033-a	A.I. Kostrykin	Wstęp do algebry cz.1
+B-034-a	A.I. Kostrykin	Wstęp do algebry cz.2
+B-035-a	W. Żakowski	Matematyka cz.1
+B-036-a	W. Żakowski, W. Kołodziej	Matematyka cz. 2
+B-037-a	Charles de Comberousse	Cours d'algebre superieure
+B-037-b	Charles de Comberousse	Cours d'algebre superieure
+B-038-a	Heinrich	Algebra
+B-039-a	B. Niewenglowski	Cours d'algebre
+B-040-a	Stanisław Zaremba	Teorya wyznaczników i równań liniowych
+B-041-a	G. Birkhoff, S. Mac Lane	Przegląd algebry współczesnej
+B-042-a	Ł. Böttcher	Zasady algebry elementarnej
+B-043-a	Jul. Petersen	Theorie der Algebraischen Gleichungen
+B-044-a	B. Niewenglowski	Cours d'algebre
+B-045-a	Jan Sleszyński	Teorja wyznaczników
+B-046-a	Witold Pogorzelski	Zarys teorji wktorów
+B-047-a	Stanisław Zaremba	Teorya wyznaczników i równań liniowych
+B-048-a	N. W. Jefimow, E. R. Rozendorn	Algebra liniowa wraz z geometrią wielowymiarową
+B-049-a	Stanisław Zaremba	Teorya wyznaczników i równań liniowych
+B-050-a	P. Mansion	Elementes de la theorie des determinants
+B-051-a	B. Iwaszkiewicz, M. Kerner	Teorja wyznaczników
+B-052-a	Richard  Baltzer	Theorie und Anwendung der Determinanten
+B-053-a	Stanisław Zaremba	Teorya wyznaczników i równań liniowych
+B-054-a	A. Mostowski, M. Stark	Elementy algebry wyższej
+B-055-a	Jan Sleszyński	Teorja wyznaczników
+B-056-a	G. Ricci-Curbastro	Analisi algebrica ed infinitesimale
+B-057-a	Fritz Neiss	Determinanten und Matrizen
+B-058-a	Gerhard Kowalewski	Einführung in die Determinantentheorie
+B-059-a	A. B. Danielowicz	Metoda najmniejszych kwadratów
+B-060-a	Julius König	Algebraischen Gröszen
+C-001-a	G. Birkhoff, S. Mac Lane	Przegląd algebry współczesnej
+C-001-b	G. Birkhoff, S. Mac Lane	Przegląd algebry współczesnej
+C-002-a	A. Białynicki-Birula	Zarys algebry
+C-002-b	A. Białynicki-Birula	Zarys algebry
+C-003-a	A. Białynicki-Birula	Algebry
+C-003-b	A. Białynicki-Birula	Algebry
+C-003-c	A. Białynicki-Birula	Algebry
+C-003-d	A. Białynicki-Birula	Algebry
+C-003-e	A. Białynicki-Birula	Algebry
+C-003-f	A. Białynicki-Birula	Algebra
+C-004-a	M. Bryński, J. Jurkiewicz	Zbiór zadań z algebry
+C-004-b	M. Bryński, J. Jurkiewicz	Zbiór zadań z algebry
+C-004-c	M. Bryński, J. Jurkiewicz	Zbiór zadań z algebry
+C-004-d	M. Bryński, J. Jurkiewicz	Zbiór zadań z algebry
+C-004-e	M. Bryński, J. Jurkiewicz	Zbiór zadań z algebry
+C-005-a	B. Grell	Wstęp do matematyki
+C-005-b	B. Grell	Wstęp do matematyki
+C-006-a	S. Lang	Algebra
+C-006-b	S. Lang	Algebra
+C-007-a	J. Ruktowski	Algebra abstrakcyjna w zadaniach
+C-007-b	J. Ruktowski	Algebra abstrakcyjna w zadaniach
+C-007-c	J. Ruktowski	Algebra abstrakcyjna w zadaniach
+C-007-d	J. Ruktowski	Algebra abstrakcyjna w zadaniach
+C-007-e	J. Ruktowski	Algebra abstrakcyjna w zadaniach
+C-007-f	J. Ruktowski	Algebra abstrakcyjna w zadaniach
+C-007-g	J. Ruktowski	Algebra abstrakcyjna w zadaniach
+C-007-h	J. Ruktowski	Algebra abstrakcyjna w zadaniach
+C-008-a	W.A. Andrunakiewij, Y.M. Riabuchin	Radikały algebr i strukturnaja teoria
+C-009-a	G. Birkhoff, T.C. Bartee	Wspólczesna algebra stosowana
+C-010-a	S. Balcerzyk	Wstęp do algebry homologicznej
+C-011-a	J. Browkin	Teoria reprezentacji grup skończonych
+C-012-a	J. Browkin	Teoria ciał
+C-013-a	J. Browkin	Wybrane zagadnienia algebry
+C-014-a	A.I. Kostrykin	Wstęp do algebry
+C-015-a	M. Dumnicki, T. Winiarski	Bazy Gröbnera
+C-016-a	E. Fried	O algebrze abstrakcyjnej
+C-017-a	M.I. Kargapołow, J.I Mierzlakow	Podstawy teorii grup
+C-018-a	P. S. Aleksandrow	Wstęp do teorii grup
+C-018-b	P. S. Aleksandrow	Wstęp do teorii grup
+C-019-a	H. Weber	Kleines Lehrbuch der Algebra
+C-020-a	J. A. Serret	Cours d'algebre superieure
+C-020-b	J. A. Serret	Cours d'algebre superieure
+C-021-a	Ernesto Pascal	Grupy ciągłe przekształceń
+C-022-a	Stanisław Balcerzyk, Tadeusz Józefiak	Pierścienie przemienne
+C-022-b	Stanisław Balcerzyk, Tadeusz Józefiak	Pierścienie przemienne
+C-023-a	Zdzisław Opial	Algebra wyższa
+C-024-a	Serge Lang	Algebra
+C-024-b	Serge Lang	Algebra
+C-025-a	Maciej Bryński	Elementy teorii Galois
+C-026-a	Wacław Sierpiński	Zasady algebry wyższej
+C-026-b	Wacław Sierpiński	Zasady algebry wyższej
+C-027-a	Hermann Hankel	Complexen Zahlensysteme
+C-028-a	Heinrich Weber	Lehrbuch der Algebra
+D-001-a	D. Hilbert, S. Cohn-Vossen	Geometria Podglądowa
+D-001-b	D. Hilbert, S. Cohn-Vossen	Geometria Podglądowa
+D-001-c	D. Hilbert, S. Cohn-Vossen	Geometria Podglądowa
+D-001-d	D. Hilbert, S. Cohn-Vossen	Geometria Podglądowa
+D-001-e	D. Hilbert, S. Cohn-Vossen	Geometria Podglądowa
+D-001-f	D. Hilbert, S. Cohn-Vossen	Geometria Podglądowa
+D-002-a	Roman Sikorski	Wstęp do geometrii różniczkowej
+D-002-b	Roman Sikorski	Wstęp do geometrii różniczkowej
+D-003-a	Bogusław Gdowski	Elementy geometrii różniczkowej
+D-003-b	Bogusław Gdowski	Elementy geometrii różniczkowej
+D-003-c	Bogusław Gdowski	Elementy geometrii różniczkowej
+D-003-d	Bogusław Gdowski	Elementy geometrii różniczkowej
+D-003-e	Bogusław Gdowski	Elementy geometrii różniczkowej
+D-004-a	R. Sulanke, P. Wintgen	Geometria różniczkowa i teoria wiązek
+D-004-b	R. Sulanke, P. Wintgen	Geometria różniczkowa i teoria wiązek
+D-004-c	R. Sulanke, P. Wintgen	Geometria różniczkowa i teoria wiązek
+D-004-d	R. Sulanke, P. Wintgen	Geometria różniczkowa i teoria wiązek
+D-004-e	R. Sulanke, P. Wintgen	Geometria różniczkowa i teoria wiązek
+D-005-a	R. Bonola, H. Liebmann	Die nichteuklidische Geometrie
+D-005-b	R. Bonola, H. Liebmann	Die nichteuklidische Geometrie
+D-006-a	Jacek Gancarzewicz	Geometria różniczkowa
+D-006-b	Jacek Gancarzewicz	Geometria różniczkowa
+D-007-a	Konstanty Radziszewski	Wstęp do współczesnej geometrii różniczkowej
+D-007-b	Konstanty Radziszewski	Wstęp do współczesnej geometrii różniczkowej
+D-007-c	Konstanty Radziszewski	Wstęp do współczesnej geometrii różniczkowej
+D-007-d	Konstanty Radziszewski	Wstęp do współczesnej geometrii różniczkowej
+D-008-a	John Oprea	Geometria różniczkowa i jej zastosowania
+D-008-b	John Oprea	Geometria różniczkowa i jej zastosowania
+D-008-c	John Oprea	Geometria różniczkowa i jej zastosowania
+D-009-a	Jacek Gancarzewicz, Barbara Upozda	Wstęp do geometrii różniczkowej
+D-009-b	Jacek Gancarzewicz, Barbara Upozda	Wstęp do geometrii różniczkowej
+D-010-a	Banach Centre Publications	Differential Geometry
+D-011-a	L. Auslander, R. E. Macenzie	Rozmaitości Różniczkowe
+D-012-a	S. P. Finikow	Geometria Różniczkowa
+D-013-a	Maciej Skwarczyński	Geometria Rozmaitości Riemanna
+D-014-a	J. Aczél, S. Gołąb	Funktionalgleichungen der Theorie der geometrischen Objekte
+D-015-a	Otomar Karwowski	Zbiór zadań z geometrii różniczkowej
+D-016-a	Gino Loria	Przeszłość i stan obecny najważniejszych teoryj geometrycznych
+D-017-a	Georg Scheffers	Einführung in die Theorie der Kurven in der Ebene und im Raume
+D-017-b	Georg Scheffers	Einführung in die Theorie der Kurven in der Ebene und im Raume
+D-018-a	W. Staniewicz	Zastosowanie rachunku różniczkowego i całkowego do geomtrji
+D-019-a	W. V. D. Hodge	Methods of algebraic geometry
+D-020-a	Alfred Rosenblatta	Postępy teoryi powierzchni algebraicznych
+D-021-a	Heinrich Wieleitner	Theorie der ebenen algebraischen Kurven höherer Ordnung
+D-022-a	Emile Picard	Theorie des courbes et des surfaces algebriques
+D-023-a	William Fulton	Algebraic curves
+D-024-a	wielu autorów	Abhandlungen aus dem Seminar für Vektor- und Tensoranalysis samt Anwendungen auf Geometrie, Mechanik und Physik
+E-001-a	S. Łojasiewicz	Wstęp do geometrii analitycznej zespolonej
+E-001-b	S. Łojasiewicz	Wstęp do geometrii analitycznej zespolonej
+E-001-c	S. Łojasiewicz	Wstęp do geometrii analitycznej zespolonej
+E-001-d	S. Łojasiewicz	Wstęp do geometrii analitycznej zespolonej
+E-002-a	N. Stiepanow	Trygonometria sferyczna
+E-002-b	N. Stiepanow	Trygonometria sferyczna
+E-003-a	M. Kordos	Podstawy geometrii rzutowej i rzutowo-metrycznej
+E-003-b	M. Kordos	Podstawy geometrii rzutowej i rzutowo-metrycznej
+E-003-c	M. Kordos	Podstawy geometrii rzutowej i rzutowo-metrycznej
+E-004-a	M. Kordos	O różnych geometriach
+E-004-b	M. Kordos	O różnych geometriach
+E-004-c	M. Kordos	O różnych geometriach
+E-005-a	F. Leja	Geometria analityczna
+E-005-b	F. Leja	Geometria analityczna
+E-005-c	F. Leja	Geometria analityczna
+E-005-d	F. Leja	Geometria analityczna
+E-005-e	F. Leja	Geometria analityczna
+E-006-a	M. Stark	Geometria analityczna
+E-006-b	M. Stark	Geometria analityczna
+E-007-a	E. Otto	Krzywe stożkowe
+E-008-a	K. Borsuk	Geometria analityczna wielowymiarowa
+E-009-a	A. Kisielow	Geometria cz. 1
+E-010-a	W. Kostin	Podstawy geometrii
+E-011-a	E. Kącki, D. Sadowska, L. Siewierski	Geometria analityczna w zadaniach
+E-012-a	A.I. Fetisov	Proof in Geometry
+E-013-a	B. Gdowski	Zbiór zadań z rachunku wektorowego i geometrii analitycznej
+E-014-a	B. Grochowski	Geometria wykreślna cz.1
+E-015-a	I.M. Jagłom, W.G. Bołtianski	Figury wypukłe
+E-016-a	L. Dubikajtis	Wstęp do geometrii wykreślnej
+E-017-a	Kh.A. Arustamov	Problems in descriptive geometry
+E-018-a	C. Russjan	Geometrya rzutowa
+E-018-b	C. Russjan	Geometrya rzutowa
+E-018-c	C. Russjan	Geometrya rzutowa
+E-019-a	I.I. Aleksandrow	Stornik geometrinieskich zadań na postroenie
+E-020-a	T. Andereescu, M. Rolínek, J. Tkadlec	Geometry Problems
+E-021-a	W. Szmielew	Od geometrii afinicznej do euklidesowej
+E-022-a	M. Stark	Geometria analityczna z wstępem do geometrii wielowymiarowej
+E-023-a	K. Borsuk, W. Szmielew	Podstawy geometrii
+E-023-b	K. Borsuk, W. Szmielew	Podstawy geometrii
+E-024-a	A. Kuterov, A. Rubanov	Problems in Geometry
+E-025-a	Adolf Hochheim	Analytischen Geometrie der Ebene I (Auflösungen)
+E-025-b	Adolf Hochheim	Analytischen Geometrie der Ebene I (Aufgaben)
+E-026-a	W. Jędrychowski, M. Kordos	Szkoła Geometrii - Odczyty Kaliskie
+E-027-a	Adolf Hochheim	Analytischen Geometrie der Ebene II (Auflösungen)
+E-027-b	Adolf Hochheim	Analytischen Geometrie der Ebene II (Aufgaben)
+E-028-a	Adolf Hochheim	Analytischen Geometrie der Ebene III (Aufgaben)
+E-028-b	Adolf Hochheim	Analytischen Geometrie der Ebene III (Auflösungen)
+E-029-a	M. Condamine	Geometrie terminales
+E-029-b	M.Condamine	Geometrie terminales
+E-030-a	N.M. Beskin	Images of Geometric Solids
+E-031-a	S. Kulczycki	Geometria Nieeuklidesowa
+E-032-a	M. Herrmann, L. Stammler, U. Sterz	Geometrie auf Varietäten
+E-033-a	L.I. Golovina, I.M. Yaglom	Induction in Geometry
+E-034-a	Gerhard Kowalewski	Einführung in die Analytische Geometrie
+E-034-b	Gerhard Kowalewski	Einführung in die Analytische Geometrie
+E-035-a	A.Davidova	Элементарная Геометрія
+E-036-a	Lothar Heffter	Lehrbuch der analytischen Geometrie
+E-037-a	F.Schur	Podręcznik geometryi analitycznej
+E-038-a	K.Zorawski	Wykłady uniwersyteckie Geometryi Analitycznej Cz. I
+E-039-a	F. Klein	Vorlesungen über höhere Geometrie
+E-040-a	F. Klein	Elementarmathematik vom höheren Standpunkte aus
+E-041-a	F. Klein	Vorlesungen über nich-euklidische Geometrie
+E-042-a	Hans von Mangoldt	Einführung in die höhere Mathematik. Erster Band
+E-043-a	Friedrich Dingeldey	Kegelschnitte und kegelschnitt Systeme
+E-044-a	B.Niewenglowski	Cours de Geometrie Analytique. Tome III
+E-045-a	B.Niewenglowski	Cours de Geometrie Analytique. Tome II
+E-046-a	B.Niewenglowski	Cours de Geometrie Analytique. Tome I
+E-047-a	Eugene Rouche	Tratie de Geometrie. Cz 2
+E-048-a	Eugene Rouche	Tratie de Geometrie. Cz 1
+E-049-a	K. Th. Vahlen	Abstrakte Geometrie
+E-050-a	Eustachy Żyliński	Geometria Analityczna
+E-051-a	Roubaudi	Geometrie descriptive. I
+E-052-a	Roubaudi	Geometrie descriptive. II
+E-053-a	Franciszek Włodowski	Geometria analityczna (krzywe płaskie drugiego stopnia)
+E-054-a	David Hilbert	Grundlagen der Geomterie
+E-055-a	C. Bourlet	Lecons de Trigonometrie
+E-056-a	M. Cartan	Geometrie analytique
+E-057-a	K. Żorawski	Wykłady geometryi analitycznej
+E-058-a	A. Javary	Geometrie descriptive. II
+E-059-a	Ernest Sągayła	Wykład geometryi wykreślnej
+E-060-a	V. Darchez	Nouveau cours de dessin geometrique. Cz. 3
+E-061-a	J. Hadamard	Wykład geometrji elementarnej
+E-062-a	A. Javary	Geometrie descriptive. I
+E-063-a	Georges Milhaud, Edouard Pouget	Geometrie descriptive
+E-064-a	Alfred Rosenblatt	Geometrja analityczna na płaszczyźnie
+E-065-a	S. Kwietniewski	Geometrja rzutowa
+E-066-a	Franciszek Leja	Geometrja analityczna. I
+E-067-a	Alfred Rosenblatt	Geometrja analityczna. Część I
+E-068-a	K. Żorawski	Wykłady geometryi analitycznej
+E-069-a	M. Biernacki	Geometrja analityczna płaska
+E-070-a	M. Biernacki	Geometrja analityczna przestrzenna
+E-071-a	K. Żorawski	Wykłady geometryi analitycznej. Część III
+E-072-a	Benedykt Bornstein	Prolegomena filozoficzne
+E-073-a	Juliusz Gudzio, Nikodem Pituła	Zbiór zadań z geometrji analitycznej płaskiej
+E-074-a	F. Enriques, U. Amaldi	Zasady gieometrji elementarnej
+E-075-a	B. Kalicun-Chodowicki	Zarys geometrji wykreślnej
+E-076-a	Antoni Plamitzer	Elementy geometrji rzutowej
+E-077-a	H. Steinhaus	Podstawy geometrji
+E-078-a	Mieczysław Łazarski	Zasady geometrji wykreślnej
+E-079-a	Alfred Clebsch	Lecons sur la geometrie
+E-080-a	Józef Krysiński	Kurs solidometrii (stereometryi)
+E-081-a	Maryjan A. Baraniecki	Własności przecięć stożkowych
+E-082-a	F. Joachimsthal	Elemente der analytischen Geometrie der Ebene
+E-083-a	H. B. Lübsen	Trigonometrie
+E-084-a	Witold janowski	Przekształcenia izometryczne na płaszczyźnie
+E-085-a	Alfred Rosenblatt	Badania nad kształtami krzywych algebraicznych stopnia szóstego
+E-086-a	Marceli Stark	Geometria analityczna
+E-087-a	Kazimierz Żorawski	Wykłady geometryi analitycznej. Tom I
+E-088-a	Kazimierz Żorawski	Wykłady geometryi analitycznej. Tom II
+E-089-a	Francziszek Włodarski	Geometrja analityczna płaska. Część I
+E-090-a	Alfred Clebsch	Lecons sur la geometrie
+E-091-a	Alfred Clebsch	Lecons sur la geometrie
+E-092-a	V. Darchez	Nouveau cours de dessin geometrique. Cz. 2
+E-093-a	Heinrich Borks	Mathematische Hauptsätze
+E-094-a	H. Ganter, F. Rudio	Die Elemente der analityschen Geometrie. Erster Teil
+E-095-a	Kazimierz Bartel	Geometrja wykreślna
+E-096-a	A. M. Welchons, W. R. Krickenberger	Plane geometry
+E-097-a	George Salmon	Analytische Geometrie der Kegelschnitte
+E-098-a	Theodor Reye	Geometrie der Lage
+E-099-a	Ferdinan Rudio	Die Elemente der analityschen Geometrie. Zweiter Teil
+E-100-a	С. П. Фиников	Аналитическая Геометрия
+E-101-a	Leon Silberstein	Geometrya dla szkół wydziałowych
+E-102-a	Jean Taille	Courbes et surfaces
+E-103-a	Robert Campbell	La trigonometrie
+E-104-a	P. Simon	Guide methodique de resolution des problemes de geometrie elementaire
+E-105-a	A. R. Hornbrook	Konkretna Geometrya
+E-106-a	Mieczysław Łazarski	Zasady geometrji wykreślnej
+E-107-a	Bolesław Iwaszkiewicz	Geometrja
+E-108-a	B. Chodowicki	Rzuty prostokątne
+E-109-a	W. Kostin	Podstawy geometrii
+E-110-a	W. Kwietniewski	Pierwsze początki geometryi
+E-111-a	Jan Zydler	Zarys geometrji analitycznej na płaszczyźnie
+E-112-a	H. Becker	Geometrisches Zeichnen
+E-113-a	John Wesley Young	Dwanaście wykładów o zasadniczych pojęciach algebry i geometryi
+E-114-a	Briot, Bouquet	Trigonometrie
+E-115-a	Ludwig Bieberbach	Analytische Geometrie
+E-116-a	F. Enriques	Wykłady geomtryi rzutowej
+E-117-a	F. Enriques	Prinzipien der Geometrie
+F-001-a	Władysław Narkiewicz	Classical Problems in Number Theory
+F-001-b	Władysław Narkiewicz	Classical Problems in Number Theory
+F-001-c	Władysław Narkiewicz	Classical Problems in Number Theory
+F-001-d	Władysław Narkiewicz	Classical Problems in Number Theory
+F-002-a	Wacław Sierpiński	Teoria Liczb
+F-002-b	Wacław Sierpiński	Teoria Liczb
+F-002-c	Wacław Sierpiński	Teoria Liczb
+F-003-a	Władysław Narkiewicz	Teoria Liczb
+F-003-b	Władysław Narkiewicz	Teoria Liczb
+F-004-a	J. A. Serret	Cours d'algebre superieure
+F-005-a	Banach Centre Publications	Elementary and Analytic  Theory of Numbers
+F-006-a	Jacek Gancarzewicz	Arytmetyka
+F-007-a	Neal Koblitz	Algebraiczne aspekty kryptografii
+F-008-a	Institut de mathématiques de Bordeaux	Journal de Théorie des Nombres de Bordeaux
+F-009-a	Paulo Ribenboim	Wielkie twierdzenia Fermata dla laików
+F-010-a	Wacław Sierpiński	Arytmetyka Teoretyczna
+F-011-a	Iwan Winogradow	Elementy Teorii Liczb
+F-012-a	Andrzej Grzegorczyk	Zarys arytmetyki teoretycznej
+F-013-a	Amir D. Aczel	Wielkie twierdzenie Fermata
+F-014-a	Sherman K. Stein	Potęga liczb
+F-015-a	Stanisław Zaremba	Zarys pierwszych zasad teoryi liczb całkowitych
+F-015-b	Stanisław Zaremba	Zarys pierwszych zasad teoryi liczb całkowitych
+F-016-a	Neal Koblitz	Wykład z Teorii Liczb i kryptografii
+F-017-a	John Derbyshire	Obsesja Liczb Pierwszych <3
+F-018-a	Wacław Sierpiński	Teorya liczb niewymiernych
+F-019-a	P. L. Czebyszew	Eelemente der Zahlentheorie (Theorie der Congruenzen)
+F-020-a	Witold Wilkosz	Arytmetyka liczb całkowitych
+F-020-b	Witold Wilkosz	Arytmetyka liczb całkowitych
+F-021-a	Stanisław Zaremba	Arytmetyka Teoretyczna
+F-022-a	Otto Stolz, J. A. Gmeiner	Theoretische Arithmetik, cz. 1
+F-023-a	Otto Stolz, J. A. Gmeiner	Theoretische Arithmetik, cz. 2
+F-024-a	Wacław Sierpiński	Arytmetyczna teorya kwaternionów
+F-025-a	Neal Koblitz	Algebraiczne aspekty kryptografii
+F-026-a	Wacław Sierpiński	Teorja liczb
+F-027-a	Joseph Bertrand	Traite d'Arithmetique
+F-028-a	Wacław Sierpiński	250 zadań z elementarnej teorii liczb
+F-029-a	Jules Tannery	Lecons d'Arithmetique
+F-030-a	Jan Leśniak	Teoria liczb wymiernych i rzeczywistych
+F-031-a	J. A. Serret	Cours d'algebre superieure. Tome second
+G-001-a	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-001-b	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-001-c	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-001-d	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-001-e	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-001-f	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-001-g	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-001-h	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-001-i	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-001-j	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Definicje, twierdzenia, wzory
+G-002-a	Marian Gewert	Zbiór zadań z analizy matematycznej cz. 2
+G-002-b	Marian Gewert	Zbiór zadań z analizy matematycznej cz. 2
+G-002-c	Marian Gewert	Zbiór zadań z analizy matematycznej cz. 2
+G-003-a	Marian Gewert	Zbiór zadań z analizy matematycznej cz. 1
+G-003-b	Marian Gewert	Zbiór zadań z analizy matematycznej cz. 1
+G-004-a	Krzysztof Maurin	Analiza cz. 1 Elementy
+G-004-b	Krzysztof Maurin	Analiza cz. 1 Elementy
+G-004-c	Krzysztof Maurin	Analiza cz. 1 Elementy
+G-004-d	Krzysztof Maurin	Analiza cz. 1 Elementy
+G-004-e	Krzysztof Maurin	Analiza cz. 1 Elementy
+G-005-a	Stanisław Zaremba	Ogólne Zaasady Analizy Matematycznej część III
+G-005-b	Stanisław Zaremba	Ogólne Zaasady Analizy Matematycznej część III
+G-005-c	Stanisław Zaremba	Ogólne Zaasady Analizy Matematycznej część III
+G-006-a	Wiesława J. Kaczor, Maria T. Nowak	Zadania z analizy matematycznej. Funkcje jednej zmiennej -- rachunek różniczkowy 2
+G-006-b	Wiesława J. Kaczor, Maria T. Nowak	Zadania z analizy matematycznej. Funkcje jednej zmiennej -- rachunek różniczkowy 2
+G-007-a	Wiesława J. Kaczor, Maria T. Nowak	Zadania z analizy matematycznej. Całkowanie 3
+G-007-b	Wiesława J. Kaczor, Maria T. Nowak	Zadania z analizy matematycznej. Całkowanie 3
+G-008-a	O. Stolz, J. A. Gmeiner 	Einleitung in die funktionantheorie I Abteilung
+G-008-b	O. Stolz, J. A. Gmeiner 	Einleitung in die funktionantheorie I Abteilung
+G-009-a	Witold Kleiner	Analiza matematyczna. Tom 2
+G-009-b	Witold Kleiner	Analiza matematyczna. Tom 2
+G-010-a	G.M. Fichtenholz	Rachuek różniczkowy i całkowy. Tom 3
+G-010-b	G.M. Fichtenholz	Rachuek różniczkowy i całkowy. Tom 3
+G-010-c	G.M. Fichtenholz	Rachuek różniczkowy i całkowy. Tom 3
+G-011-a	Witold Kołodziej	Wybrane rozdziały analizy matematycznej
+G-011-b	Witold Kołodziej	Wybrane rozdziały analizy matematycznej
+G-011-c	Witold Kołodziej	Wybrane rozdziały analizy matematycznej
+G-011-d	Witold Kołodziej	Wybrane rozdziały analizy matematycznej
+G-012-a	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Definicje, twierdzenia, wzory
+G-012-b	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Definicje, twierdzenia, wzory
+G-013-a	W. Krysicki, L. Włodarski	Analiza matematyczna w zadaniach 2
+G-013-b	W. Krysicki, L. Włodarski	Analiza matematyczna w zadaniach 2
+G-014-a	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Przykłady i zadania
+G-014-b	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Przykłady i zadania
+G-014-c	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Przykłady i zadania
+G-014-d	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Przykłady i zadania
+G-014-e	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Przykłady i zadania
+G-014-f	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Przykłady i zadania
+G-015-a	Roman Sikorski	Rachunek rózniczkowy i całkowy. Funkcje wielu zmiennych
+G-015-b	Roman Sikorski	Rachunek rózniczkowy i całkowy. Funkcje wielu zmiennych
+G-015-c	Roman Sikorski	Rachunek rózniczkowy i całkowy. Funkcje wielu zmiennych
+G-015-d	Roman Sikorski	Rachunek rózniczkowy i całkowy. Funkcje wielu zmiennych
+G-016-a	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Kolokwia i egzaminy
+G-016-b	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Kolokwia i egzaminy
+G-016-c	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Kolokwia i egzaminy
+G-016-d	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Kolokwia i egzaminy
+G-016-e	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Kolokwia i egzaminy
+G-017-a	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-b	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-c	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-d	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-e	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-f	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-g	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-h	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-i	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-j	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-k	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-l	Walter Rudin	Analiza rzeczywista i zespolona
+G-017-m	Walter Rudin	Analiza rzeczywista i zespolona
+G-018-a	A. Kisielow	Algebra. Część I i II
+G-019-a	G.M. Fichtenholz	Rachunek rózniczkowy i całkowy. Tom 1
+G-019-b	G.M. Fichtenholz	Rachunek rózniczkowy i całkowy. Tom 1
+G-019-c	G.M. Fichtenholz	Rachunek rózniczkowy i całkowy. Tom 1
+G-019-d	G.M. Fichtenholz	Rachunek rózniczkowy i całkowy. Tom 1
+G-019-e	G.M. Fichtenholz	Rachunek rózniczkowy i całkowy. Tom 1
+G-020-a	Aniela Ehrenfeucht, Olga Stande	Algebra. Zbiór zadań z matematyki elementarnej
+G-021-a	Danuta Przworska-Rolewicz	Wstęp do analizy algebraicznej i jej zastosowań
+G-021-b	Danuta Przworska-Rolewicz	Wstęp do analizy algebraicznej i jej zastosowań
+G-022-a	John M. Rassias	Mathematical Analysis
+G-023-a	Barbara Piłat, Mariusz J. Wasilewski	Tablice całek
+G-023-b	Barbara Piłat, Mariusz J. Wasilewski	Tablice całek
+G-023-c	Barbara Piłat, Mariusz J. Wasilewski	Tablice całek
+G-023-d	Barbara Piłat, Mariusz J. Wasilewski	Tablice całek
+G-024-a	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Kolokwia i egzaminy
+G-024-b	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 2. Kolokwia i egzaminy
+G-025-a	Andrzej Birkholc	Analiza matematyczna. Funkcje wielu zmiennych
+G-025-b	Andrzej Birkholc	Analiza matematyczna. Funkcje wielu zmiennych
+G-025-c	Andrzej Birkholc	Analiza matematyczna. Funkcje wielu zmiennych
+G-025-d	Andrzej Birkholc	Analiza matematyczna. Funkcje wielu zmiennych
+G-025-e	Andrzej Birkholc	Analiza matematyczna. Funkcje wielu zmiennych
+G-026-a	Jan Mikusiński	Wstęp do analizy matematycznej
+G-027-a	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Przykłady i zadania
+G-027-b	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Przykłady i zadania
+G-027-c	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Przykłady i zadania
+G-027-d	Marian Gewert, Zbigniew Skoczylas	Analiza matematyczna 1. Przykłady i zadania
+G-028-a	Józef Banaś, Stanisław Wędrychowicz	Zbiór zadań z analizy matematycznej
+G-028-b	Józef Banaś, Stanisław Wędrychowicz	Zbiór zadań z analizy matematycznej
+G-028-c	Józef Banaś, Stanisław Wędrychowicz	Zbiór zadań z analizy matematycznej
+G-028-d	Józef Banaś, Stanisław Wędrychowicz	Zbiór zadań z analizy matematycznej
+G-029-a	Walter Rudin	Podstawy analizy matematycznej
+G-029-b	Walter Rudin	Podstawy analizy matematycznej
+G-029-c	Walter Rudin	Podstawy analizy matematycznej
+G-029-d	Walter Rudin	Podstawy analizy matematycznej
+G-029-e	Walter Rudin	Podstawy analizy matematycznej
+G-029-f	Walter Rudin	Podstawy analizy matematycznej
+G-029-g	Walter Rudin	Podstawy analizy matematycznej
+G-029-h	Walter Rudin	Podstawy analizy matematycznej
+G-029-i	Walter Rudin	Podstawy analizy matematycznej
+G-029-j	Walter Rudin	Podstawy analizy matematycznej
+G-029-k	Walter Rudin	Podstawy analizy matematycznej
+G-030-a	Wiesława J. Kaczor, Maria T. Nowak	Zadania z analizy matematycznej. Liczby rzeczywiste, ciągi i szeregi liczbowe
+G-031-a	Kazimierz Kuratowski	Rachunek różniczkowy i całkowy. Funkcje jednej zmiennej
+G-031-b	Kazimierz Kuratowski	Rachunek różniczkowy i całkowy. Funkcje jednej zmiennej
+G-031-c	Kazimierz Kuratowski	Rachunek różniczkowy i całkowy. Funkcje jednej zmiennej
+G-031-d	Kazimierz Kuratowski	Rachunek różniczkowy i całkowy. Funkcje jednej zmiennej
+G-032-a	Mirosław Grabowski	Analiza matematyczna. Powtórzenie. Ćwiczenia i zbiór zadań
+G-033-a	W.I. Smirnow	Matemartka wyższa. Tom 1
+G-033-b	W.I. Smirnow	Matemartka wyższa. Tom 1
+G-033-c	W.I. Smirnow	Matematyka wyższa. Tom 1
+G-034-a	G.M. Fichtenholz	Rachunek różniczkowy i całkowy. Tom 3
+G-035-a	G.M. Fichtenholz	Курс дифференциального и интегрального исчисления. Том 2
+G-036-a	Kazimierz Szałajko	Matematyka. Tom 2
+G-037-a	Jul. Pteresen	Theorie der Algebraischen Gleichungen
+G-038-a	G.N. Berman	A Problem Book in Mathematical Analysis
+G-039-a	Ryszard Rudnicki	Wykłady z analizy matematycznej
+G-040-a	Stanisław Łojasiewicz	Wstęp do teorii funkcji rzeczywistych
+G-041-a	Laurent Schwartz	Kurs analizy matematycznej. Tom 2
+G-042-a	Włodzimierz Wrona	Matematka. Cz. 1
+G-043-a	R. Leitner	Zarys matematyki wyższej. Cz. 1
+G-044-a	Stanisław Hartman	Wstęp do analizy harmonicznej
+G-045-a	W.I. Smirnow	Matematyka wyższa. Tom 2
+G-046-a	Roman Sikorski	Advanced Calculus. Functions of Several Variables
+G-047-a	G. M. Fichtenholz	Rachunek Różniczkowy i Całkowy, tom 1
+G-048-a	Marian Malec	Przestrzenie metryczne. Zbiór zadań z rozwiązaniami
+G-048-b	Marian Malec	Przestrzenie metryczne. Zbiór zadań z rozwiązaniami
+G-049-a	Jan Mikusiński	Operational Calculus. Vol. 1
+G-050-a	W. Krysicki, L. Włodarski	Analiza matematyczna w zadaniach. Cz. 1
+G-050-b	W. Krysicki, L. Włodarski	Analiza matematyczna w zadaniach. Cz. 1
+G-051-a	Stefan Banach	Rachunek rózniczkowy i całkowy. Tom 1
+G-052-a	A.F. Bermant, I.G. Aramanovich	Mathematical Analysis
+G-053-a	Roman Sikorski	Funkcje rzeczywiste. Tom 2
+G-054-a	Peter Walker	Examples and Theorems in Analysis
+G-055-a	Witold Rzymowski	Przestrzenie metryczne w analiziw
+G-056-a	Tadeusz Kowalski, Jerzy Muszyński, Wawrzyniec Sadkowski	Zbiór zadań z matematyki. Tom 2
+G-057-a	Michael Spivak	Analiza na rozmaitościach
+G-057-b	Michael Spivak	Analiza na rozmaitościach
+G-058-a	Marian Malec	Przestrzenie metryczne
+G-059-a	K. Borsuk	Ćwiczenia z Analizy Matematycznej
+G-060-a	Axel Harnack, Georg Bohlmann	Lehrbuch der Differential-und Integral-Rechnung
+G-061-a	Dennis G. Zill	Calculus with analitic geometry
+G-062-a	Gannadi M. Henkin, Jürgen Leiterer	Theory of functions on strictly pseudoconvex sets with non-smooth boundry
+G-063-a	H. Flanders	Teoria form rózniczkowych
+G-064-a	Stanisław Zaremba	Wstęp do analizy wydanie II
+G-064-b	Stanisław Zaremba	Wstęp do analizy wydanie II
+G-064-c	Stanisław Zaremba	Wstęp do analizy wydanie II
+G-065-a	H Dolp, Eugen Netto	Grundzuge und Aufgaben der Differential-und Integralrechnung
+G-065-b	H Dolp, Eugen Netto	Grundzuge und Aufgaben der Differential-und Integralrechnung
+G-066-a	Krzysztof Maurin	Analiza. Cz. 3
+G-066-b	Krzysztof Maurin	Analiza. Cz. 3
+G-067-a	Krzysztof Maurin	Analiza. Cz. 2
+G-067-b	Krzysztof Maurin	Analiza. Cz. 2
+G-067-c	Krzysztof Maurin	Analiza. Cz. 2
+G-068-a	Anna Leksińska, Wacław Leksiński, Wojciech Zakowski	Rachunek różniczkowy i całkowy zz astosowaniami
+G-069-a	Roman Sikorski	Rachunek różniczkowy i całkowy. Funkcje wielu zmiennych
+G-070-a	Marcin E. Kuczma	O szeregach liczbowych
+G-071-a	W.P. Minorski	Zbiór zadań z matematyki wyższej
+G-072-a	Ryszard Zieliński	Metody Monte Carlo
+G-073-a	W. Krysicki, L. Włodarski	Analiza matematyczna w zadaniach. Cz. 2
+G-074-a	G.M. Fichtenholz	Rachunek różniczkowy i całkowy. Tom 2
+G-074-b	G.M. Fichtenholz	Rachunek różniczkowy i całkowy. Tom 2
+G-075-a	Ernesto Pascal	Rachunek nieskończonosciowy część III
+G-075-b	Ernesto Pascal	Rachunek nieskończonosciowy część III
+G-076-a	Wacław Sierpiński	Analiza tom 1 część druga
+G-076-b	Wacław Sierpiński	Analiza tom 1 część druga
+G-077-a	Stanisław Zaremba	Wstęp do analizy
+G-077-b	Stanisław Zaremba	Wstęp do analizy
+G-077-c	Stanisław Zaremba	Wstęp do analizy
+G-078-a	Franciszek Leja	Rachunek Różniczkowy i Całkowy
+G-078-b	Franciszek Leja	Rachunek Różniczkowy i Całkowy
+G-078-c	Franciszek Leja	Rachunek Różniczkowy i Całkowy
+G-078-d	Franciszek Leja	Rachunek Różniczkowy i Całkowy
+G-079-a	Jerzy Niewiarowski	Zadania z teorii miary
+G-080-a	Stefan Banach	Rachunek Różniczkowy i Całkowy I
+G-081-a	Stefan Banach	Rachunek Różniczkowy i Całkowy II
+G-082-a	Ernst Hameister	Laplace-Transformation Eine Einfuhrung fur Physiker, Elektro-Maschinen-und Bauingenieure
+G-083-a	Emile Picard	Traite D'Analyse tome II
+G-084-a	Erster Band, Franz Meyer	Differential und Integralrechnung
+G-085-A	I. A. Maron	Zadania z Rachunku Różniczkowego i ćalkowego funkcji jednej zmiennej
+G-086-a	Antoni Łomnicki	Rachunek Różniczkowy i Całkowy dla potrzeb przyrodników i techników tom I
+G-087-a	Antoni Łomnicki	Rachunek Różniczkowy i Całkowy dla potrzeb przyrodników i techników tom II
+G-088-a	Johann Lieblein	Sammlung von Aufgaben aus der algebraischen Analysis
+G-089-a	Andrew Russell Forsyth	Theorie der Differentialgleichungen
+G-090-a	Goerog Scheffers	TYTUŁ NIEZNANY
+G-091-a	Eugen Netto	Vorlesungen über Algebra. Band 1
+G-092-a	Scheffers	Anwendung der Differential und Integral-Rechnung auf Geometrie II
+G-093-a	Ulisse Dini, Jacob Luroth, Adolf Schepp	Grundlagen fur eine Theorie der Functionn einer veranderlichen reellen grossse
+G-094-a	Otto Stolz	Grundzuge der Differential-und Integralrechnung, zweter theil
+G-095-a	Otto Stolz	Grundzuge der Differential-und Integralrechnung, dritter theil
+G-096-a	Axel Harnack, Georg Bohlmann, Ernst Zermelo	J.A. Serret Lehrbuch der Differential-und Integral-Rechnung
+G-097-a	Scheffers	Anwendung der Differential und Integral-Rechnung auf Geometrie I
+G-098-a	Nicolas Lusin	Lecons les Ensembles Analitiques et leurs applications
+G-099-a	Ernesto Pascal	Rachunek nieskonościowy część I
+G-100-a	Ernesto Pascal	Rachunek nieskonościowy część II
+G-101-a	Ernesto Pascal	Ćwiczeniaa z Rachunku różniczkowego i całkowego
+G-102-a	P. Aubert, G. Papelier	Evercices D'Algebre D'Analyse et de Trigonometrie tome second
+G-103-a	Constantin Caratheodory	Vorlesungen uber reelee funktionen
+G-104-a	Gustav Ferdinand Meyer	Vorlesungen uber die theorie der Bestimmten Integrale 
+G-105-a	Gerhard Kowalewski	Grundzuge und Aufgaben der Differential-und Integralrechnung zweite, verbesserte auflage
+G-106-a	Robert Fricke	Hauptsatze Differential-und Integral-Rechnung 
+G-107-a	Juljusz Rudnicki	Rachunek Różniczkowy i Całkowy część pierwsza 
+G-108-a	H. Dolp, Eugen Netto	Grundzuge und Aufgaben der Differential-und Integralrechnung
+G-109-a	F. Frenet, H. Laurent	Recuel D'exercices sur le Calcul Infinitesimal
+G-110-a	Henri Lebesque	Legons sur les series trigonometriques
+G-111-a	C. Burali-Forti, R. Marcolongo, S. Lattes	Elements de Calcul Vectoriel
+G-112-a	Russjan	Rachunek Wariacyjny
+G-113-a	S-F lacroix	Traite Elmentaire de Calcul Differentiel et de Calcul Integral tome premier
+G-114-a	B. Беренсъ	Єлементарный курсъ исчисления бесконечно-малыхъ издание второе
+G-115-a	B. Niewenglowski	Cours D'Algebre a L'usage des eleves de la classe de mathematiques speciales
+G-115-b	B. Niewenglowski	Cours D'Algebre a L'usage des eleves de la classe de mathematiques speciales
+G-116-a	Wacław Sierpiński	Analiza tom 1 część pierwsza
+G-117-a	Wacław Sierpiński	Analiza tom 1 część trzecia i czwarta
+G-118-a	Wacław Sierpiński	Funkcje przedstawialne analitycznie
+G-119-a	Wacław Sierpiński	Działania Nieskończone
+G-120-a	Wacław Sierpiński	Teoria Liczb Niewymiernych
+G-121-a	Édouard Goursat	Cours D'Analyse Mathématique tome 1
+G-122-a	Édouard Goursat	Cours D'Analyse Mathématique tome 2
+G-123-a	Édouard Goursat	Cours D'Analyse Mathématique tome 3
+G-124-a	Carl Friedrich Gauss	Allegemeine Untersuchungen über die unendliche Reihe
+G-125-a	Stanisław Zaremba	Solution Générale du Probelème de Fourier
+G-126-a	Stanisław Zaremba	Ogólne zasady analizy matematycznej część II (Rachunek całkowy)
+G-127-a	Stanisław Zaremba	wstęp do analizy część 2 teoria liczb rzeczywistych
+G-128-a	Stanisław Zaremba	Wstęp do Analizy wydanie 2
+G-129-a	Antoni Przeborski	Rachunek Wariacyjny, tom 1 , część 1
+G-130-a	G. Kowalewski	Zasady Rachunku rózniczkowego i całkowego
+G-131-a	Antoni Hoborski, Stanisław Gołąb, Alfred jakubowski	zbiór zadań z wyższej matematyki wraz z rozwiązaniami
+G-132-a	Edward Coursat	kurs Analizy Matematycznej tom 1 część 2
+G-133-a	Ch. Sturm, M.E. Prouhet	Cours D'Analyse de L'École Polytechnique tome premier
+G-134-a	Stanisław Zaremba	Ogólne Zasady Analizy Matematycznej część I (rachunek różniczkowy) wydanie II
+G-135-a	Edward Coursat	kurs Analizy Matematycznej tom 1
+G-136-a	Stanisław Zaremba	Teoria Ciągów i Szeregów Nieskończonych
+G-136-b	Stanisław Zaremba	Teoria Ciągów i Szeregów Nieskończonych
+G-136-c	Stanisław Zaremba	Teoria Ciągów i Szeregów Nieskończonych
+G-136-d	Stanisław Zaremba	Teoria Ciągów i Szeregów Nieskończonych
+G-137-a	G. M. Fichtenholz	Rachunek Różniczkowy i całkowy tom III
+G-137-b	G. M. Fichtenholz	Rachunek Różniczkowy i całkowy tom III
+G-138-a	Wacław Sierpiński	Wstęp do Teorii Funkcji Zmiennej Rzeczywistej 
+G-138-b	Wacław Sierpiński	Wstęp do Teorii Funkcji Zmiennej Rzeczywistej 
+G-139-a	Stanisław Zaremba	Ogólne zasady Analizy Matematycznej część I (rachunek różniczkowy)
+G-140-a	F. Klein	Elementarmathematik von hoheren standpunkte aus I
+G-141-a	F. Joachimsthal	Anwendung der Differential- und Integralrechnung (auf die allgemeine Theorie def Flächen und der linien doppelter Krümmung)
+G-142-a	Julijan Sochocki	Rozwiązywanie równań liczebnych
+G-143-a	Władysław Zajączkowski	Zasady algebry wyższej
+G-144-a	Eugen Netto	Vorlesungen über Algebra. Band 2
+G-145-a	G. Salmon	Cours d'algebre superieure
+G-156-a	S. F. Lacroix	Traite elementaire de Calcul Differentiel et de Calcul Integral
+G-157-a	Hans von Mangoldt	Einfuhrung in die hohere Mathematik
+G-157-b	Hans von Mangoldt	Einfuhrung in die hohere Mathematik
+G-158-a	F. Frenet	Recueil D'Exercices sur le Calcul Infinitesimal
+G-159-a	Konrad Knopp	Szeregi Nieskończone
+G-160-a	Г. Н. Берман	Сборник задач по курсу математического анализа
+G-161-a	Oscar Bolza	Vorlesungen über Variationsrechnung
+G-162-a	R. Courant	Vorlesungen über Differential- und Integalrechnung
+G-163-a	Gerhard Kowalewski	Die Klassischen Probleme der Analysis des Unendlichen
+G-164-a	R. Rothe	Hohere mathematik teil III 
+G-165-a	G. I. zaporożec	Metody Rozwiązania zadań z Analizy Matematycznej
+G-166-a	F. R. Helmert	Die Ausgleichungsrechnung nach der Method der klensten Quadrate
+G-167-a	J. W. Mellor	Hobere Mathematik
+G-168-a	Edward Goursat	Cours D'Analyse mathematique tome 1
+G-169-a	Edward Goursat	Kurs Analizy Matematycznej tom I
+G-170-a	R. Rothe	Hohere mathematik teil VI
+G-171-a	R. Rothe	Hohere mathematik teil II
+G-172-a	Heinrich Burkhardt	Algebraischr analysis
+G-173-a	I. M. Gelfand, S.W. Fomin	Rachunek Wariacyjny
+G-174-a	P. Appell	Elements D'Analyse mathematique
+G-175-a	M. C. Jordan	Cours D'analyse de L'École Polytechnique tome premier
+G-176-a	Wacław Sierpiński	Analiza tom 1 część 3 i 4
+G-177-a	Witold Kołodziej	Analiza Matematyczna wydanie III
+G-178-a	Heinrich Burkhardt	Elliptische Funktionen
+G-179-a	Heinrich Burkhardt	Einfuhrung in die theorie der Analytischen Funktionen
+G-180-a	E. Goursat	Kurs Analizy Matematycznej
+G-181-a	Henri Lebesque	Legons sur L'Integration
+G-182-a	Bolesław Lebiedziński	Analiza matematyczna
+G-183-a	Wacław Sierpiński	Analiza tom 1 część 1
+G-184-a	A. Adam, F. Goossens, F. Lousberg	mathematisions 67 analyse complexes probabilites
+G-185-a	Witold Kołodziej	Analiza Matematyczna wydanie IV
+G-186-a	Jozef Jchreier i Marceli Hark	Differentialgleichnugen reeller funktionen
+G-187-a	E Kamke	Szeregi Fouriera
+G-189-a	Franciszek Leja	Rachunek Rózniczkowy i Całkowy
+G-190-a	N. M. Lebiediew	Funkcje Specjalne i ich zastosowania
+G-191-a	Stefan Banach	Rachunek Różniczkowy i całkowy II
+G-192-a	Stanisław Łojasiewicz	Wstęp do teorii funkcji rzeczywistych
+G-193-a	Roman Sikorski	Rachunek różniczkowy i całkowy Funkcje wielu zmiennych
+G-194-a	G. Polya, G. Szego	Aufgaben und Lehrsatze aus der Analysis II
+G-195-a	F. Klein	Elementarmathematik von hoheren standpunkte aus I
+G-196-a	O stolz, J. A. Gmeiner	Einleitung in die funktionentheorie II abteilung
+H-001-a	B. W. Szabat	Wstęp do Analizy zespolonej
+H-001-b	B. W. Szabat	Wstęp do Analizy zespolonej
+H-002-a	Walter Rudin	Analiza Rzeczywista i zespolona
+H-002-b	Walter Rudin	Analiza Rzeczywista i zespolona
+H-003-a	Steven G. Krantz	Teoria funcji wielu zmiennych zespolonych
+H-003-b	Steven G. Krantz	Teoria funcji wielu zmiennych zespolonych
+H-004-a	Jolanta Długosz	Funkcje Zespolone
+H-004-b	Jolanta Długosz	Funkcje Zespolone
+H-005-a	Jacek Chądzyński	Wstęp do Analizy zespolonej
+H-005-b	Jacek Chądzyński	Wstęp do Analizy zespolonej
+H-005-c	Jacek Chądzyński	Wstęp do Analizy zespolonej
+H-005-d	Jacek Chądzyński	Wstęp do Analizy zespolonej
+H-006-a	Andrzej Ganczar	Analiza Zespolona w Zadaniach
+H-007-a	Franciszek Leja	Funkcje Zespolone
+H-008-a	Banach Centre Publications	Singularities
+H-009-a	L. volkovysky, G. Lunts, I. Abrahamovicz	Problems in the theory of functions of a complex variable
+H-010-a	Jan Krzyż	Zbiór zadań z funkcji analitycznych
+H-011-a	A. Sveshnikov, A. Tikhonov	The Theory of Functions of a complex variable
+H-012-a	Franciszek Bierski	Funkcje Zespolone Szeregi i Przekształcenia Fouriera Przekształcenie całkowe Laplace'a
+H-013-a	Banach Centre Publications	Complex Analysis
+H-014-a	Franciszek Leja	Funkcje zespolone
+H-014-b	Franciszek Leja	Funkcje zespolone
+H-014-c	Franciszek Leja	Funkcje zespolone
+H-015-a	B. W. Szabat	Wstęp do Analizy zespolonej
+H-015-b	B. W. Szabat	Wstęp do Analizy zespolonej
+H-016-a	Konrad Knopp	Theory of functions
+H-017-a	Heinrich W. E. Jung	Einführung in die Theorie der algebraischen Funktionen einer Veränderlichen
+H-018-a	Jan Krzyż	Zbiór zadań z funkcji analitycznych
+H-019-a	A. G. Sveshnikov, A. N. Tikhonov	The Theory of Functions of a Complex Variable
+H-020-a	Heinrich Weber	Elliptische Funktionen und algebraische Zahlen
+H-021-a	Gerhard Kowalewski	Die komplexen Veränderlichen und ihre Funktionen
+H-022-a	Oskar Schlömilch	Höheren Analysis
+H-023-a	Józef Kniaź Puzyna	Teorya funkcyj analitycznych. Tom 2
+H-024-a	Stanisław Saks, Antoni Zygmund	Funkcje analityczne
+H-025-a	Piotr Jakóbczak, Marek Jarnicki	Wstęp do teorii funkcji holomorficznych wielu zmiennych zespolonych
+H-026-a	Stanisław Saks, Antoni Zygmund	Analytic functions
+H-027-a	Jan Krzyż	Zbiór zadań z funkcji analitycznych
+H-028-a	Jan Krzyż	Problems in complex variable theory
+H-029-a	H. Durege	Theorie der Functionen einer complexen veränderlichen Grösse
+H-030-a	Józef Kniaź Puzyna	Teorya funkcyj analitycznych. Tom 1
+H-031-a	Józef Kniaź Puzyna	Teorya funkcyj analitycznych. Tom 2
+H-032-a	Bieberbach	Funktionentheorie
+I-001-a	Marian Gewert, Zbigniew Skoczylas	Równania różniczkowe zwyczajne Teoria, przykłady, zadania
+I-001-b	Marian Gewert, Zbigniew Skoczylas   	Równania różniczkowe zwyczajne Teoria, przykłady, zadania
+I-001-c	Marian Gewert, Zbigniew Skoczylas   	Równania różniczkowe zwyczajne Teoria, przykłady, zadania
+I-001-d	Marian Gewert, Zbigniew Skoczylas   	Równania różniczkowe zwyczajne Teoria, przykłady, zadania
+I-001-e	Marian Gewert, Zbigniew Skoczylas   	Równania różniczkowe zwyczajne Teoria, przykłady, zadania
+I-002-a	J. Robert Dorfman	Wprowadzenie do teorii chaosu w nierównowagowej mechanice statystycznej
+I-002-b	J. Robert Dorfman	Wprowadzenie do teorii chaosu w nierównowagowej mechanice statystycznej
+I-003-a	Edward Ott	Chaos w układach dynamicznych
+I-003-b	Edward Ott	Chaos w układach dynamicznych
+I-004-a	Lawrence C. Evans	Równania różniczkowe cząstkowe
+I-004-b	Lawrence C. Evans	Równania różniczkowe cząstkowe
+I-004-c	Lawrence C. Evans	Równania różniczkowe cząstkowe
+I-004-d	Lawrence C. Evans	Równania różniczkowe cząstkowe
+I-005-a	N.M.Matwiejew	Metody całkowania równań różniczkowych zwyczajnych
+I-005-b	N.M.Matwiejew	Metody całkowania równań różniczkowych zwyczajnych
+I-005-c	N.M.Matwiejew	Metody całkowania równań różniczkowych zwyczajnych
+I-006-a	Andrzej Palczewski	Równania różniczkowe zwyczajne teoria i metody numeryczne z wykorzystaniem komputerowego systemu obliczeń symbolicznych
+I-006-b	Andrzej Palczewski	Równania różniczkowe zwyczajne teoria i metody numeryczne z wykorzystaniem komputerowego systemu obliczeń symbolicznych
+I-007-a	W.I. Arnold	Równania różniczkowe zwyczajne
+I-007-b	W.I. Arnold	Równania różniczkowe zwyczajne
+I-008-a	H.-O.Peitgen, H.Jurgens, D.Saupe	Granice chaosu fraktale część 2
+I-008-b	H.-O.Peitgen, H.Jurgens, D.Saupe	Granice chaosu fraktale część 2
+I-009-a	H.-O.Peitgen, H.Jurgens, D.Saupe	Granice chaosu fraktale część 1
+I-010-a	Romuald Wit	Numeryczne metody rozwiązywania równań różniczkowych cząstkowych
+I-011-a	Janina Wolska-Bochenek, Andrzej Borzymowski, Jerzy Chmaj, Magdalena Tryjarska	Zarys teorii równań całkowych i różniczkowych cząstkowych
+I-012-a	Piotr Grabowksi	Stabilność układów Lurie
+I-013-a	Jean Mawhin	Metody wariacyjne dla nieliniowych problemów Dirichleta
+I-014-a	Franciszek Bierski	Równania różniczkowe cząstkowe 
+I-015-a	Rościsław Rabczuk	Elementy nierówności różniczkowych
+I-016-a	N.M.Matwiejew	Zadania z równań różniczowych zwyczajnych
+I-017-a	Przemysław Wojtaszczyk	Teoria falek
+I-018-a	Kazimierz Sobczyk	Stochastyczne równania różniczkowe
+I-019-a	Wiesława Regel	107 równań różniczkowych wyższych rzędów z pełnymi rozwiązaniami krok po kroku...
+I-020-a	Wiesława Regel	102 równania różniczkowe I rzędu z pełnymi rozwiązaniami krok po kroku...
+I-021-a	M.L.Krasnov, A.I.Kiselyov, G.I.Makarenko	A book of problems in ordinary differential equations
+I-022-a	Adam Piskorek	Równania całkowe
+I-023-a	Adam Piskorek	Równania całkowe Elementy teorii i zastosowania
+I-024-a	W.I.Smirnow	Matematyka wyższa 2
+I-025-a	W.I. Arnold	Teoria równań różniczkowych 
+I-026-a	Witold Pogorzelski	Równania całkowe i ich zastosowania tom IV
+I-027-a	W. Żakowski, W. Leksiński	Matematyka Część IV
+I-027-b	W. Żakowski, W. Leksiński	Matematyka Część IV
+I-028-a	Andrzej Pelczar	Wstęp do teorii równań różniczkowych Część II Elementy jakościowej teorii równań różniczkowych
+I-029-a	Banach Centre Publications	Partial differential equations
+I-030-a	A.Pelczar, J.Szarski	Wstęp do teorii rónań różniczkowych Część I
+I-031-a	Hanna Marcinkowsa	Wstęp do teorii równań różniczkowych cząstkowych
+I-032-a	M.M. Smirnow	Zadania z równań różniczkowych cząstkowych
+I-033-a	Jacek Kudrewicz	Przekształcenie Z i równania różnicowe
+I-034-a	D.J. Panow	Metody numeryczne rozwiązywania równań różniczkowych cząstkowych
+I-035-a	N.M.Matwiejew	Metody całkowania równań różniczkowych zwyczajnych
+I-035-b	N.M.Matwiejew	Metody całkowania równań różniczkowych zwyczajnych
+I-036-a	Gregory L. Baker, Jerry P. Gollub	Wstęp do dynamiki układów chaotycznych
+I-037-a	J.Wolska-Bochenek, A. Borzymowski, J. Chmaj, M.Tryjarska	Zarys teorii równań całkowych i różniczkowych cząstkowych
+I-038-a	H. Marcinkowska	Wstęp do teorii równań różniczkowych cząstkowych
+I-039-a	W.I. Arnold	Teoria równań różniczkowych 
+I-040-a	A. Pelczar	Ogólne układy dynamiczne
+I-040-b	A.Pelczar	Ogólne układy dynamiczne
+I-041-a	A.Pelczar, J. Szarski	Wstęp do teorii równań różniczkowych cz.1
+I-041-b	A.Pelczar, J. Szarski	Wstęp do teorii równań różniczkowych cz.1
+I-042-a	A.Pelczar	Wstęp do teorii równań różniczkowych cz.2
+I-043-a	M. Bocher	An introduction to the study of integral equations
+I-044-a	A. Wundeiler	Równania różniczkowe, geometria różniczkowa
+I-045-a	E.Kamke	Differentialgleichnugen Losungsmethoden und losungen
+I-046-a	L. Bieberbach	Theorie der Differentialgleichungen
+I-047-a	W. Szlenk	Wstęp do teorii gładkich układów dynamicznych
+I-048-a	V.Volterra	Equations integrales
+I-049-a	M. Krzyżański	Równania różniczkowe cząstkowe rzędu drugiego cz.1
+I-050-a	E.Kamke	Differentialgleichnugen Losungsmethoden und losungen
+I-051-a	M. Gewert, Z. Skoczylas	Równania różniczkowe zwyczajne. Teoria, przykłady, zadania
+I-052-a	Journal Acta Facultatis Rerum Naturalium Universitatis Comenianae	Differential equations and their applications
+I-053-a	R. Wit	Numeryczne metody rozwiązywania równań różniczkowych cząstkowych
+I-054-a	Praca zbiorowa	Modelowanie zagadnień brzegowych
+I-055-a	W.I.Arnold	Równania różniczkowe zwyczajne
+I-056-a	W.W.Stiepanow	Równania różniczkowe
+I-057-a	A.Knester	Die Integralgleichugen
+I-058-a	T. Lalesco	Introduction A la theorie des equations integrales
+I-059-a	C. Russjan	Równania różniczkowe cząstkowe
+I-060-a	S. Banach	Rachunek różniczkowy i całkowy
+I-061-a	D.J. Panow	Metody numeryczne rozwiązywania równań różniczkowych cząstkowych
+I-062-a	F. Leja	Rachunek różniczkowy i całkowy
+I-063-a	A. Zygmund	Równania różniczkowe
+I-064-a	C. Russjan	Równania różniczkowe zwyczajne
+I-065-a	C.Russjan	Równania różniczkowe cząstkowe
+I-066-a	A. Pelczar	Ogólne układy dynamiczne
+I-067-a	Praca zbiorowa	Matematyczna analiza reprodukcji rozszerzonej
+I-068-a	R. Baire	Les fonctions discontinues
+I-069-a	C. Caratheodory	Variationsrechnung und partielle differentialgleichnungen erster ordnung
+I-071-a	G.Szego	Fartielle differentialgleichungen Der Mathematischen Physik
+I-072-a	J. Szarski	Differential Inequalities
+J-001-a	Walter Rudin	Analiza Funkcjonalna
+J-001-b	Walter Rudin	Analiza Funkcjonalna
+J-001-c	Walter Rudin	Analiza Funkcjonalna
+J-001-d	Walter Rudin	Analiza Funkcjonalna
+J-001-e	Walter Rudin	Analiza Funkcjonalna
+J-001-f	Walter Rudin	Analiza Funkcjonalna
+J-001-g	Walter Rudin	Analiza Funkcjonalna
+J-001-h	Walter Rudin	Analiza Funkcjonalna
+J-001-i	Walter Rudin	Analiza Funkcjonalna
+J-002-a	Kazimierz Goebel, Wiliam A. Kirk	Zagadnienia Metrycznej Teorii Punktów Stałych
+J-002-b	Kazimierz Goebel, Wiliam A. Kirk	Zagadnienia Metrycznej Teorii Punktów Stałych
+J-003-a	International Series of Numerical Mathematics	Tagungsauszuege aus den Jahren 1968, 1969 - Numerische Mathematik
+J-003-b	International Series of Numerical Mathematics	Tagungsauszuege aus den Jahren 1968, 1969 - Numerische Mathematik
+J-003-c	International Series of Numerical Mathematics	Tagungsauszuege aus den Jahren 1968, 1969 - Numerische Mathematik
+J-004-a	Genadi Vainikko	Funktionalanalysis der Diskretisierungsmethoden
+J-005-a	Stefan Węgrzyn	Rachunek operatorowy
+J-005-b	Stefan Węgrzyn	Rachunek operatorowy
+J-005-c	Stefan Węgrzyn	Rachunek operatorowy
+J-006-a	Stanisław Prus, Adam Stachura	Analiza Funktionalna w zadaniach
+J-006-b	Stanisław Prus, Adam Stachura	Analiza Funktionalna w zadaniach
+J-006-c	Stanisław Prus, Adam Stachura	Analiza Funktionalna w zadaniach
+J-006-d	Stanisław Prus, Adam Stachura	Analiza Funktionalna w zadaniach
+J-007-a	Włodzimierz Mlak	Wstęp do teorii przestrzeni Hilberta
+J-007-b	Włodzimierz Mlak	Wstęp do teorii przestrzeni Hilberta
+J-007-c	Włodzimierz Mlak	Wstęp do teorii przestrzeni Hilberta
+J-008-a	E. W. Cheney	Introduction do approximation theory
+J-009-a	Marian Malec	Elementy Teorii Szeregów w przestrzeniach unormowanych
+J-010-a	Franciszek Hugon Szafraniec	Przestrzenie Hilberta z jądrem reprodukcyjnym
+J-011-a	G. Alexits, S. B. Stechikin	Procedings of the conference on constructive theory of functions
+J-012-a	Julian Musielak	Wstęp do analizy funktionalnej
+J-013-a	N. Ya. Vilenkin	Method of successive approximations
+J-014-a	Antoni Smoluk	podstawy teorii aproksymacji i s-funkcje
+J-015-a	W. F. Diemianow, W. N. Małoziemow	Wstęp do metod minimaksymalizacji
+J-016-a	J. Aczél, S. Gołąb	Funktionalgleichungen der theorie der geometrischen objekte
+J-017-a	R. S. Guter, Ł. D. Kudriawcew, B. M. Lewitan	Elementy Teorii Funkcji
+J-018-a	Banach Centre Publications	Approximation and Function Spaces
+J-019-a	Hans Triebel	Fourier Analysis and Function Spaces
+J-020-a	Maria Moszyńska	Geometria zbiorów wypukłych
+K-001-a	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 1
+K-001-b	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 1
+K-001-c	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 1
+K-001-d	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 1
+K-001-e	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 1
+K-001-f	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 1
+K-001-g	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 1
+K-002-a	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 2
+K-002-b	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 2
+K-002-c	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 2
+K-002-d	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 2
+K-002-e	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 2
+K-002-f	W. Krysicki, J. Bartos, W. Dyczka, K. Królikowska, m. Wasilewski	Rachunek Prawdopodobieństwa i statystyka matematyczna w zadaniach, cz 2
+K-003-a	Lech Tadeusz Kubik	Zastosowanie elementarnego rachunku prawdopodobieństwa do wnioskowania statystycznego
+K-003-b	Lech Tadeusz Kubik	Zastosowanie elementarnego rachunku prawdopodobieństwa do wnioskowania statystycznego
+K-003-c	Lech Tadeusz Kubik	Zastosowanie elementarnego rachunku prawdopodobieństwa do wnioskowania statystycznego
+K-003-d	Lech Tadeusz Kubik	Zastosowanie elementarnego rachunku prawdopodobieństwa do wnioskowania statystycznego
+K-004-a	Jerzy Ombach	Rachunek Prawdopodobieństwa wspomagany komputerowo - Maple
+K-004-b	Jerzy Ombach	Rachunek Prawdopodobieństwa wspomagany komputerowo - Maple
+K-004-c	Jerzy Ombach	Rachunek Prawdopodobieństwa wspomagany komputerowo - Maple
+K-005-a	William Feller	Wstęp do rachunku prawdopodobieństwa
+K-005-b	William Feller	Wstęp do rachunku prawdopodobieństwa
+K-005-c	William Feller	Wstęp do rachunku prawdopodobieństwa
+K-005-d	William Feller	Wstęp do rachunku prawdopodobieństwa
+K-006-a	Ignacy Kotlarski	Rachunek prawdopodobieństwa dla inżynierów
+K-007-a	Stefan Zubrzycki	Wykłady z rachunku prawdopodobieństwa i statystyki matematycznej
+K-008-a	Agnieszka Plucińska, Edmunt Pluciński	Rachunek Prawdopodobieństwa, Statystyka matematyczna, Procesy Stochastyczne
+K-008-b	Agnieszka Plucińska, Edmunt Pluciński	Rachunek Prawdopodobieństwa, Statystyka matematyczna, Procesy Stochastyczne
+K-009-a	Jacek Jakubowski, Rafał Sztencel	Rachunek prawdopodobieństwa dla (prawie) każdego
+K-010-a	T. Gerstenkorn, T. Śródka	Kombinatoryka i rachunek prawdopodobieństwa
+K-011-a	Agnieszka Plucińska, Edmunt Pluciński	Zadania z probabilistyki
+K-012-a	Arthur Engel, Támas Varga, Willi Walser	Strategia czy przypadek
+K-013-a	Czesław Platt	Problemy Rachunku Prawdopodobieństwa i statystyki matematycznej
+K-014-a	A. A. Borowkow	Rachunek Prawdopodobieństwa
+K-015-a	B. G. Wołodin, M. P. Ganin, I. J. Diner, L. B. Komarow, A. A. Swiesznikow, K. B. Starobin	Problemy Rachunku Prawdopopdobieństwa
+K-016-a	Agnieszka Plucińska, Edmunt Pluciński	Zadania z rachunku prawdopodobieństwa i statystyki matematycznej
+K-016-b	Agnieszka Plucińska, Edmunt Pluciński	Zadania z rachunku prawdopodobieństwa i statystyki matematycznej
+K-017-a	Tadeusz Czechowski	Elementarny Wykład rachunku prawdopodobieństwa
+K-018-a	B. G. Wołodin, M. P. Ganin, I. J. Diner, L. B. Komarow, A. A. Swiesznikow, K. B. Starobin	Rachunek prawdopodobieństwa w problemach i zadaniach
+K-019-a	Helena Jasiulewicz, Wojciech Kordecki	Rachunek prawdopodobieństwa i statystyka matematyczna
+K-020-a	J. W. Prochorow, J. A. Rozanow	Rachunek Prawdopodobieństwa
+K-021-a	Jerzy Neyman	Zasady rachunku prawdopodobieństwa i statystyki matematycznej
+K-022-a	Warren Weaver	Elementarz rachunku prawdopodobieństwa
+K-023-a	Marek Fisz	Rachunek Prawdopodobieństwa i statystyka matematyczna
+K-024-a	Mirosław Krzyśko	Wykłady z teorii prawdopodobieństwa
+K-025-a	W. Gosiewski	Zasady rachunku prawdopodobieństwa
+K-026-a	Banach Centre Publications	Probability theory
+K-027-a	Z. Hellwig	Elementy rachunku prawdopodobieństwa i statystyki matematycznej
+K-028-a	B. Gniedenko, A. Chinczyn	Elementarny wstęp do rachunku prawdopodobieństwa
+K-029-a	Agnieszka Plucińska, Edmunt Pluciński	Elementy probabilistyki
+K-030-a	T. Gerstenkorn, T. Śródka	Kombinatoryka i rachunek prawdopodobieństwa
+K-031-a	S. M. Jermakow	Metoda Monte Carlo i zagadnienia pokrewne
+K-032-a	Adam Płocki	Rachunek prawdopodobieństwa dla nauczycieli
+K-033-a	B. W. Gniedenko, A. N. Kołmogorow	Rozkłady graniczne sum zmiennych losowych niezależnych
+K-034-a	Witold Pogorzelski	Zarys rachunku prawdopodobieństwa i teorii błędów
+K-035-a	Patrick Billingsley	Prawdopodobieństwo i miara
+K-036-a	P. H. Müller	Lexikon der Stochastik
+K-037-a	Dobiesław Bobrowski	Probabilistyka w zastosowaniach technicznych
+K-038-a	Dobiesław Bobrowski	Elementy teorii prawdopodobieństwa
+K-039-a	A. A. Markoff	Wahrscheinlichkeitsrechnung
+L-001-a	Amir D. Aczel	Statystyka w zarządzaniu
+L-001-b	Amir D. Aczel	Statystyka w zarządzaniu
+L-002-a	Tomasz zieliński	Jak pokochać statystykę
+L-002-b	Tomasz zieliński	Jak pokochać statystykę
+L-003-a	Andrzej Stanisz	Przystępny kurs statystyki
+L-003-b	Andrzej Stanisz	Przystępny kurs statystyki
+L-004-a	Mark Kac	Niezależność statystyczna w rachunku prawdopodobieństwa, analizie i teorii liczb
+L-004-b	Mark Kac	Niezależność statystyczna w rachunku prawdopodobieństwa, analizie i teorii liczb
+L-005-a	Banach Centre Publications	Mathematical Statistics
+L-005-b	Banach Centre Publications	Mathematical Statistics
+L-006-a	Marius Iosifescu	Skończone procesy Markowa i ich zastosowania
+L-007-a	J. F. C. Kingman	Procesy Poissona
+L-008-a	Jarosław Bartosiewicz	Wykłady ze statystyki matematycznej
+L-009-a	Witold Paleczek	Metody analizy danych na przykładach
+L-010-a	Ryszard Magiera	Modele i metody statystyki matematycznej cz.1
+L-011-a	Mariola Piłatowska	Repetytorium ze statystyki
+L-012-a	Wacława Starzyńska	Statystyka praktyczna
+L-013-a	R.Sz. Lipcer, A.N.Sziriajew	Statystyka procesów stochastycznych
+L-014-a	Przemysław Biecek	Analiza danych z programem R
+L-015-a	Marek Gągolewski	Programowanie w języku R
+L-016-a	J. Jakubowski, J. Wątroba	Zastosowania metod statystycznych w badaniach naukowych I
+L-017-a	S. Diamond	Wszechobecna statystyka
+L-018-a	I.M.Sobol	The Monte Carlo Method
+L-019-a	H. Cramer	Metody statystyczne w matematyce
+L-020-a	W. Sierpiński	Oeuvres Choisies
+L-021-a	Z. Pawłowski	Statystyka matematyczna
+L-022-a	E. H. Lehmann	Testowanie hipotez statystycznych
+L-023-a	Janina Jóźwiak, Jarosław Podgórski	Statystyka od podstaw
+M-001-a	Robin J. Wilson	Wprowadzenie do teorii grafów
+M-001-b	Robin J. Wilson	Wprowadzenie do teorii grafów
+M-001-c	Robin J. Wilson	Wprowadzenie do teorii grafów
+M-001-d	Robin J. Wilson	Wprowadzenie do teorii grafów
+M-002-a	Kenneth A. Ross, Charles R.B. Wright	Matematyka dyskretna
+M-002-b	Kenneth A. Ross, Charles R.B. Wright	Matematyka dyskretna
+M-003-a	Banach Center	Discrete Mathematics
+M-004-a	Zbigniew Palka, Andrzej Rusciński	Niekonstruktywne metody matematyki dyskretnej
+M-006-a	Marek Kubale	Optymalizacja dyskretna
+M-007-a	Witold Lipski, Wiktor Marek	Analiza kombinatoryczna
+N-001-a	Ryszard Engelking, Karol Sieklucki	Wstęp do topologii
+N-001-b	Ryszard Engelking, Karol Sieklucki	Wstęp do topologii
+N-002-a	Klaus Jänich	Topologia
+N-002-b	Klaus Jänich	Topologia
+N-003-a	Ryszard Engelking	Zarys topologii ogólnej
+N-003-b	Ryszard Engelking	Zarys topologii ogólnej
+N-004-a	Stefan Mazurkiewicz	Travaux de topologie
+N-005-a	Ryszard Engelking, Karol Sieklucki	Geometria i topologia. Część II Topologia
+N-005-a	Ryszard Engelking, Karol Sieklucki	Geometria i topologia. Część II Topologia
+N-006-a	Ryszard Engelking	Topologia ogólna
+N-006-a	Ryszard Engelking	Topologia ogólna
+N-006-a	Ryszard Engelking	Topologia ogólna
+N-006-a	Ryszard Engelking	Topologia ogólna
+N-007-a	Hanna Patkowska	Wstęp do topologii
+N-007-b	Hanna Patkowska	Wstęp do topologii
+N-007-c	Hanna Patkowska	Wstęp do topologii
+N-008-a	Ryszard Engelking	Topologia Ogólna II 
+N-009-a	Ryszard Engelking	Teoria Wymiaru
+N-010-a	Casimir Kuratowski	Topologie I Espaces metrisables, espaces complets
+N-011-a	Casimir Kuratowski	Topologie volume I
+N-012-a	B.v. Kerekjarto	Vorlesungen über Topologie I Flächentopologie
+N-013-a	A.W. Archangielski W.I. Ponomariow	Podstawy topologii ogólnej w zadaniach
+N-013-b	A.W. Archangielski W.I. Ponomariow	Podstawy topologii ogólnej w zadaniach
+N-013-c	A.W. Archangielski W.I. Ponomariow	Podstawy topologii ogólnej w zadaniach
+N-014-a	Roman Duda	Wprowadzenie do topologii, Część I Topologia ogólna
+N-014-b	Roman Duda	Wprowadzenie do topologii, Część I Topologia ogólna
+N-014-c	Roman Duda	Wprowadzenie do topologii, Część I Topologia ogólna
+N-015-a	Roman Duda	Wprowadzenie do topologii, część II: Topologia algebriaczna, Topologia rozmaitości
+N-015-b	Roman Duda	Wprowadzenie do topologii, część II: Topologia algebriaczna, Topologia rozmaitości
+N-016-a	N.Bourbaki	Общая топология
+N-017-a	Ryszard Engelking	Topologia ogólna II 
+N-018-a	Wacław Sierpiński	Zarys teorji mnogości, częś druga: Topologia ogólna
+N-019-a	J. Novák	General Topology and its Relations to Modern Analysis and Algebra
+N-020-a	Karol Sieklucki	Geomtria i topologia. Część 1 Geometria
+O-001-a	K. Borsuk	Theory of shape
+P-001-a	Zbihniew Semadeni, Antoni Wiweger	Wstęp do teorii kategorii i funktorów
+P-001-b	Zbihniew Semadeni, Antoni Wiweger	Wstęp do teorii kategorii i funktorów
+P-001-c	Zbihniew Semadeni, Antoni Wiweger	Wstęp do teorii kategorii i funktorów
+Q-001-a	Kangur matematyczny	Miniatury matematyczne
+Q-002-a	Stowarzyszenie na rzecz Edukacji Matematycznej	XIII Polish Junior Mathematical Olympiad, LXIX Polish Mathematical Olympiad
+Q-003-a	I LO im. T. Kościuszki w Mysłowicach	Liga Matematyczna
+Q-004-a	Henryk Pawłowski	Zadania z olimpiad matematycznych z całego świata. Trygonometria i geometria
+Q-005-a	Delta	O twierdzeniach i hipotezach
+R-001-a	Krzysztof Maślanka	Od kosmologii do teorii liczb
+R-002-a	L. Kourliandtchik	Słynne nierówności
+R-003-a	K. Russell, P. Carter	Łamigłówki liczbowe
+R-004-a	L. Kourliandtchik	Powrót do krainy nierówności
+R-005-a	L. Kourliandtchik	Wędrówki po krainie nierówności
+R-006-a	L. Poługajewski, J. Damski	Sztuka obrony
+R-007-a	L. Kourliandtchik	Impresje matematyczne
+R-008-a	KMS UJ	Discrete Mathematics
+R-009-a	Stephenie Meyer	the twilight saga. new moon
+R-010-a	S. Okulicz	Zbiór zadań algebraicznych
+R-011-a	Maryan A. Baraniecki	Arytmetyka
+R-012-a	H. Schubert	Arithmetik und Algebra
+R-013-a	PTM	Prace matematyczne
+S-001-a	Léonard Euler	Élémens d'algebre. Tome premier
+S-002-a	Léonard Euler	Élémens d'algebre. Tome second
